@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EmericTimer</string>
+    <string name="background">Background</string>
+    <string name="lancer">Lancer le timer</string>
+</resources>
