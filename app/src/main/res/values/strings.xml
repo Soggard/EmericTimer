@@ -2,4 +2,6 @@
     <string name="app_name">EmericTimer</string>
     <string name="background">Background</string>
     <string name="lancer">Lancer le timer</string>
+    <string name="reset">Wololo</string>
+    <string name="lancer_le_timer">Lancer le timer</string>
 </resources>
